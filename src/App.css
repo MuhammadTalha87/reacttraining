@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
+.card{
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px;
 
+}
+img{
+  margin-top: 20px; /* Added */
+margin-left: 20px;
+  width:20%;
+  height:12%;
+}
+.cardbtn{
+  margin-left: 5%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
